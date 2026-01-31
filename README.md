@@ -1,27 +1,78 @@
 
-## 🌉 Alien Gateway 
+# 🌉 Alien Gateway
 
-> **Send crypto to @username instead of 0x742d35Cc6634C0532925a3b844Bc9e7595f0bEb**
+> **Send crypto to `@username` instead of long wallet addresses**
 
-Replace complex blockchain addresses with **human-readable usernames** across all chains.
+Alien Gateway is a **username-based crypto payment protocol** built primarily on **Stellar Blockchain**, with support for **Ethereum** and **Starknet**.
 
----
-
-### 🔑 Highlights
-
-* 💬 **Universal Crypto Username** — One @username for all your wallets (ETH, SOL, POLY, XLM, etc.)
-* 🔗 **Cross-Chain Identity** — Manage multiple chain addresses under one profile
-* 🛡️ **Secure & Decentralized** — Fully on-chain on **Starknet**, no central servers, coming soon on stellar chain...
-* 🧩 **Developer Friendly** — Simple interface & SDK for easy integration
-* 🏦 **Exchange-Ready** — Supports memo/tag for CEX deposits
-* 🚫 **Error-Proof** — Say goodbye to long 0x… addresses and copy-paste mistakes
 
 ---
 
-### 🧠 What It Solves
+## ⭐ Primary Blockchain
 
-* Wallet addresses are hard to remember
-* Users juggle multiple chain wallets
-* Copy-paste errors cause fund loss
-* No unified blockchain identity
+### Stellar (Main Network)
+
+- Ultra-low fees  
+- Fast finality  
+- Native memo support (CEX compatible)  
+- On-chain username registry  
+- Payment routing layer  
+
+---
+
+## 🌐 Supported Chains
+
+- **Stellar** (Primary)
+- **Ethereum**
+- **Starknet**
+
+One username → Multiple wallets across chains.
+
+---
+
+## 🔑 Features
+
+- 💬 Universal crypto username  
+- 🔗 Cross-chain wallet mapping  
+- 🛡️ Fully on-chain & decentralized  
+- 🏦 Exchange memo/tag support  
+- 🚫 Prevents wrong-address transfers  
+- 🧩 Developer friendly API & SDK  
+
+---
+
+## 🧠 Problem Solved
+
+- Long wallet addresses  
+- Copy-paste errors  
+- Multi-wallet confusion  
+- Poor crypto UX  
+
+---
+
+## ⚙️ How It Works
+
+1. Register `@username` on Stellar  
+2. Link ETH + Starknet wallets  
+3. Send crypto using username  
+4. System auto-resolves destination  
+
+---
+
+## 🚀 Use Cases
+
+- Wallet payments  
+- Exchange deposits  
+- DAO payouts  
+- Creator tipping  
+- Cross-border transfers  
+
+---
+
+## 🌍 Vision
+
+**One Username. Every Blockchain.**
+
+Alien Gateway makes crypto transfers simple, safe, and human-friendly.
+
 
